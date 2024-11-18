@@ -1,4 +1,4 @@
-name: DesignSafe User Guide Build
+name: DS User Guide Builds
 
 on:
   workflow_dispatch:
